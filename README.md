@@ -1,40 +1,51 @@
 # Awesome Recommendation Systems & Preference Profiling
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Track](https://img.shields.io/badge/Domain-Recommendation%20Systems%20%26%20Personalization-blue.svg)](https://github.com/ishandutta2007/Awesome-Recommendation-Systems-Preference-Profiling)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Recommendation-Systems-Preference-Profiling)
-[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ishandutta2007/Awesome-Recommendation-Systems-Preference-Profiling/blob/main/README.md#how-to-contribute)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Recommendation Systems & Preference Profiling Banner" width="100%" />
+</p>
 
-> A curated directory and benchmark of industry-leading **Recommendation Systems**, **Personalization Platforms**, **Collaborative Filtering Suites**, **Neural Ranking Models**, and **User Preference Profiling** engines—spanning enterprise SaaS platforms and state-of-the-art open-source repositories.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Recommendation-Systems-Preference-Profiling"><img src="https://img.shields.io/badge/Domain-Recommendation%20Systems%20%26%20Personalization-blue.svg" alt="Domain"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Recommendation-Systems-Preference-Profiling"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Recommendation-Systems-Preference-Profiling/blob/main/README.md#how-to-contribute"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions Welcome"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS & Hosted Personalization Platforms](#saas--hosted-personalization-platforms)
-- [Open-Source Recommendation Systems & Frameworks](#open-source-recommendation-systems--frameworks)
-- [Architectural Patterns & Composable Stacks](#architectural-patterns--composable-stacks)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+> 🎯 A curated directory and benchmark of industry-leading **Recommendation Systems**, **Personalization Platforms**, **Collaborative Filtering Suites**, **Neural Ranking Models**, and **User Preference Profiling** engines—spanning enterprise SaaS platforms and state-of-the-art open-source repositories.
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
 
-The global recommendation systems and personalization engine market is valued at approximately **$8.2 Billion to $9.2 Billion** in 2025 and is projected to expand to **$33 Billion to $38 Billion+ by 2030**, exhibiting a Compound Annual Growth Rate (CAGR) of ~33–36%. 
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Personalization Platforms](#️-saas--hosted-personalization-platforms)
+- [💻 Open-Source Recommendation Systems & Frameworks](#-open-source-recommendation-systems--frameworks)
+- [🏗️ Architectural Patterns & Composable Stacks](#️-architectural-patterns--composable-stacks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 🌐 Sector Overview & Market Dynamics
+
+The global recommendation systems and personalization engine market is valued at approximately **$8.2 Billion to $9.2 Billion** in 2025 and is projected to expand to **$33 Billion to $38 Billion+ by 2030**, exhibiting a Compound Annual Growth Rate (CAGR) of ~33–36%. 📈
 
 The market displays a **hybrid structural dynamic**:
-* **High Concentration at Core Cloud Infrastructure**: Foundation-level storage, vector indexing, and managed training backbones are heavily consolidated among hyper-scalers (Amazon Web Services, Google Cloud Platform, Microsoft Azure).
-* **High Fragmentation at the Application & Modular Personalization Layer**: Front-facing retail discovery, search-and-recommend modules, headless commerce personalization, and preference-learning tooling remain highly fragmented across specialized mid-market and enterprise SaaS providers competing on domain-specific merchandising logic, zero-party preference modeling, and low-latency inference.
+* 🏢 **High Concentration at Core Cloud Infrastructure**: Foundation-level storage, vector indexing, and managed training backbones are heavily consolidated among hyper-scalers (Amazon Web Services, Google Cloud Platform, Microsoft Azure).
+* 🧩 **High Fragmentation at the Application & Modular Personalization Layer**: Front-facing retail discovery, search-and-recommend modules, headless commerce personalization, and preference-learning tooling remain highly fragmented across specialized mid-market and enterprise SaaS providers competing on domain-specific merchandising logic, zero-party preference modeling, and low-latency inference.
 
 ---
 
-## SaaS & Hosted Personalization Platforms
+## ☁️ SaaS & Hosted Personalization Platforms
 
 Enterprise hosted platforms provide managed end-to-end event collection, automated catalog ingestion, model training, real-time inferencing APIs, and merchandising rule interfaces.
 
-The table below is sorted by **Company Size / Valuation / Market Cap** in descending order:
+The table below is sorted by **Company Size / Valuation / Market Cap** in descending order: 📊
 
 | Platform | Company Size (Valuation / Market Cap / Revenue) | Starting Tier Pricing | Free Tier / Trial Limits | Description & Capabilities |
 | :--- | :--- | :--- | :--- | :--- |
@@ -52,11 +63,11 @@ The table below is sorted by **Company Size / Valuation / Market Cap** in descen
 
 ---
 
-## Open-Source Recommendation Systems & Frameworks
+## 💻 Open-Source Recommendation Systems & Frameworks
 
-The open-source community provides production-grade libraries, deep neural ranking architectures, and scientific benchmarking environments.
+The open-source community provides production-grade libraries, deep neural ranking architectures, and scientific benchmarking environments. 🛠️
 
-The table below is sorted by **GitHub Star Count** in descending order:
+The table below is sorted by **GitHub Star Count** in descending order: ⭐
 
 | Repository | GitHub Stars | Core Algorithms & Focus | Language & Stack |
 | :--- | :--- | :--- | :--- |
@@ -80,9 +91,9 @@ The table below is sorted by **GitHub Star Count** in descending order:
 
 ---
 
-## Architectural Patterns & Composable Stacks
+## 🏗️ Architectural Patterns & Composable Stacks
 
-Modern industrial personalization architectures separate recommendation pipelines into distinct stages:
+Modern industrial personalization architectures separate recommendation pipelines into distinct stages: ⚙️
 
 ```
 [User Events & Telemetry]
@@ -115,30 +126,47 @@ Modern industrial personalization architectures separate recommendation pipeline
                [Personalized UI Display]
 ```
 
-### Stack Recommendations by Use Case
+### 💡 Stack Recommendations by Use Case
 
-* **High-Speed Implicit Feedback at Scale**: Start with **[Implicit](https://github.com/benfred/implicit)** (ALS/BPR) or **[LightFM](https://github.com/lyst/lightfm)** for collaborative filtering baselines.
-* **Deep Two-Tower Retrieval & Neural Ranking**: Use **[TensorFlow Recommenders](https://github.com/tensorflow/recommenders)** or **[NVIDIA Merlin](https://github.com/NVIDIA-Merlin/Merlin)** for GPU-accelerated embedding lookup and real-time inferencing.
-* **Academic Research & Algorithm Benchmarking**: Leverage **[RecBole](https://github.com/RUCAIBox/RecBole)** for evaluating against 90+ standard models across unified dataset pipelines.
-* **Production Feature Storage**: Pair **[Feast](https://github.com/feast-dev/feast)** with low-latency caches (Redis) to deliver fresh user interaction features to inference workers.
-* **Turnkey Commerce Experience**: Choose managed platforms like **[Algolia Recommend](https://www.algolia.com/products/recommendations/)** or **[Recombee](https://www.recombee.com/)** when developer agility, pre-built merchandising UI, and managed SLA are required.
+* ⚡ **High-Speed Implicit Feedback at Scale**: Start with **[Implicit](https://github.com/benfred/implicit)** (ALS/BPR) or **[LightFM](https://github.com/lyst/lightfm)** for collaborative filtering baselines.
+* 🧠 **Deep Two-Tower Retrieval & Neural Ranking**: Use **[TensorFlow Recommenders](https://github.com/tensorflow/recommenders)** or **[NVIDIA Merlin](https://github.com/NVIDIA-Merlin/Merlin)** for GPU-accelerated embedding lookup and real-time inferencing.
+* 🔬 **Academic Research & Algorithm Benchmarking**: Leverage **[RecBole](https://github.com/RUCAIBox/RecBole)** for evaluating against 90+ standard models across unified dataset pipelines.
+* 🗄️ **Production Feature Storage**: Pair **[Feast](https://github.com/feast-dev/feast)** with low-latency caches (Redis) to deliver fresh user interaction features to inference workers.
+* 🛍️ **Turnkey Commerce Experience**: Choose managed platforms like **[Algolia Recommend](https://www.algolia.com/products/recommendations/)** or **[Recombee](https://www.recombee.com/)** when developer agility, pre-built merchandising UI, and managed SLA are required.
 
 ---
 
-## How to Contribute
+## 🤝 How to Contribute
 
-We welcome community contributions! To add a new platform, library, or benchmarking tool:
+We welcome community contributions! 🙌 To add a new platform, library, or benchmarking tool:
 
-1. **Fork this repository**.
+1. **Fork this repository** 🍴
 2. **Add or edit entries in [README.md](file:///C:/Users/hp/Documents/Projects/Awesome-Recommendation-Systems-Preference-Profiling/README.md)**:
    - For SaaS tools: Include platform name, live URL, company size/valuation metric, exact starting tier price, and concrete free tier/trial limits.
    - For Open-Source libraries: Include repository name, link, social star badge with link to stargazers, core capabilities, and tech stack. Ensure table ordering matches sorting criteria (Valuation for SaaS, Stars for OSS).
 3. **Verify formatting**: Ensure Markdown tables and links render cleanly.
-4. **Submit a Pull Request** with a brief summary of the added solution.
+4. **Submit a Pull Request** 🚀 with a brief summary of the added solution.
 
 ---
 
-## Disclaimer
+## 💖 Support
 
-- This repository is a community-curated directory intended for research, evaluation, and engineering architecture planning; it does not constitute commercial endorsement.
-- Recommender systems learn from historical user interaction data and can inadvertently amplify bias or popularity concentration; implement fairness, diversity, and privacy safeguards (GDPR/CCPA compliant telemetry) in production deployments.
+Thank you for visiting and using this repository! If you find this curated ecosystem helpful:
+
+- ⭐ **Star this repository** to show your support and help others discover it!
+- 🍴 **Fork and share** it with fellow ML engineers, product managers, and data scientists.
+- ☕ If this project saved you time or aided your architectural research, consider buying a coffee or supporting ongoing open-source maintenance via the **[GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)**!
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Recommendation-Systems-Preference-Profiling&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Recommendation-Systems-Preference-Profiling&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Recommendation-Systems-Preference-Profiling&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Recommendation-Systems-Preference-Profiling&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- 📌 This repository is a community-curated directory intended for research, evaluation, and engineering architecture planning; it does not constitute commercial endorsement.
+- 🛡️ Recommender systems learn from historical user interaction data and can inadvertently amplify bias or popularity concentration; implement fairness, diversity, and privacy safeguards (GDPR/CCPA compliant telemetry) in production deployments.
